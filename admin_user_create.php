@@ -1,4 +1,9 @@
 <script>
+function showUserName()
+{
+	
+	alert("Hi git");
+}
 
 function userValidation() {
     var validator = jQuery("#userform").bootstrapValidator({
